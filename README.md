@@ -1,2 +1,3 @@
 # ChatPuertoSerial
-Chat con Puerto serial para Arquitectura de computadoras.
+## Chat con Puerto serial
+## ARQUITECTURA DE COMPUTADORAS II
